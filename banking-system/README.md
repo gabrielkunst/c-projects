@@ -7,4 +7,4 @@ Simple project using C.
 - Deposit
 - Widthdrawal
 - See balance
-- It also saves the balance to a txt
+- It also saves the balance to a txt file
